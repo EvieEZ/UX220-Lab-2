@@ -2,7 +2,9 @@
 <html lang="en">
 <head>
   
-<title>UX220Lab2</title>
+<title>
+  UX220Lab2
+</title>
 
 </head>
   <body>
